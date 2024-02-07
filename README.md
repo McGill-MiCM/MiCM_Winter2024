@@ -1,5 +1,5 @@
 # MiCM Winter 2024 series
-This repository contains the materials and code of the Winter 2024 workshop series. You can view the full schedule of this session at the official ([MiCM website](https://www.mcgill.ca/micm/training/workshops-series/2024-winter-series). You can see the open workshops with available seats in the [MiCM MyInvolvement page](https://involvement.mcgill.ca/organization/micm)
+This repository contains the materials and code of the Winter 2024 workshop series. You can view the full schedule of this session at the official [MiCM website](https://www.mcgill.ca/micm/training/workshops-series/2024-winter-series). You can see the open workshops with available seats in the [MiCM MyInvolvement page](https://involvement.mcgill.ca/organization/micm)
 
 # Workshop materials
 
