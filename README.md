@@ -7,6 +7,7 @@ All workshop slides can be found in the `slides` folder. All code exercises and 
 
 * How to think in code - (Slides only)   
 * [Intro to Unix and HPC](https://github.com/McGill-MiCM/micm_unixbasics)
+* [Intro to Git & GitHub](https://github.com/McGill-MiCM/MiCM_IntroToGitHub)
 
 
 
